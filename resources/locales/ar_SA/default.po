@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Tareas"
+msgstr "Tasks"
+
+msgid "Perfil"
+msgstr "Profile"
+
+msgid "Países"
+msgstr "Countries"
+
+msgid "Usuarios"
+msgstr "Users"
+
+msgid "Salir"
+msgstr "Log out"
+
+msgid "Registrar"
+msgstr "Sign up"
+
+msgid "Iniciar sesión"
+msgstr "Sign in"
+
+msgid "Correo"
+msgstr "Email"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Entrar"
+msgstr "Log in"
+
+msgid "Debe iniciar sesión para continuar."
+msgstr "You must sign in to continue."
+
+msgid "Bienvenido."
+msgstr "Welcome."
+
+msgid "Sesión cerrada."
+msgstr "You have been logged out."
+
+msgid "Mis tareas"
+msgstr "My tasks"
+
+msgid "Nueva tarea"
+msgstr "New task"
+
+msgid "Filtros y búsqueda"
+msgstr "Filters and search"
+
+msgid "Estado"
+msgstr "Status"
+
+msgid "Texto (título o descripción)"
+msgstr "Text (title or description)"
+
+msgid "Fecha límite desde"
+msgstr "Due date from"
+
+msgid "Fecha límite hasta"
+msgstr "Due date until"
+
+msgid "Filtrar"
+msgstr "Filter"
+
+msgid "Limpiar"
+msgstr "Clear"
+
+msgid "Todos"
+msgstr "All"
+
+msgid "Título"
+msgstr "Title"
+
+msgid "Descripción (idioma actual)"
+msgstr "Description (current language)"
+
+msgid "Fecha límite"
+msgstr "Due date"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "Pendiente"
+msgstr "Pending"
+
+msgid "En progreso"
+msgstr "In progress"
+
+msgid "Completado"
+msgstr "Completed"
+
+msgid "La tarea se guardó correctamente."
+msgstr "The task was saved successfully."
+
+msgid "No se pudo guardar la tarea. Revise los datos."
+msgstr "Could not save the task. Please check the data."
+
+msgid "La tarea se actualizó correctamente."
+msgstr "The task was updated successfully."
+
+msgid "No se pudo actualizar la tarea."
+msgstr "Could not update the task."
+
+msgid "La tarea se eliminó correctamente."
+msgstr "The task was deleted successfully."
+
+msgid "No se pudo eliminar la tarea."
+msgstr "Could not delete the task."
+
+msgid "¿Eliminar esta tarea?"
+msgstr "Delete this task?"
+
+msgid "Volver al listado"
+msgstr "Back to list"
+
+msgid "Volver"
+msgstr "Back"
+
+msgid "Nuevo País"
+msgstr "New country"
+
+msgid "Datos de la tarea"
+msgstr "Task details"
+
+msgid "Descripción (español)"
+msgstr "Description (Spanish)"
+
+msgid "Descripción (inglés)"
+msgstr "Description (English)"
+
+msgid "Guardar"
+msgstr "Save"
+
+msgid "Editar tarea"
+msgstr "Edit task"
+
+msgid "Actualizar"
+msgstr "Update"
+
+msgid "Descripción según tu idioma"
+msgstr "Description in your language"
+
+msgid "Mi perfil"
+msgstr "My profile"
+
+msgid "Datos personales"
+msgstr "Personal data"
+
+msgid "Nombre"
+msgstr "First name"
+
+msgid "Apellido"
+msgstr "Last name"
+
+msgid "Nueva contraseña (dejar vacío para no cambiar)"
+msgstr "New password (leave blank to keep current)"
+
+msgid "Preferencias"
+msgstr "Preferences"
+
+msgid "Idioma de la interfaz"
+msgstr "Interface language"
+
+msgid "Biografía"
+msgstr "Bio"
+
+msgid "Guardar perfil"
+msgstr "Save profile"
+
+msgid "Perfil actualizado."
+msgstr "Profile updated."
+
+msgid "No se pudo actualizar el perfil."
+msgstr "Could not update the profile."
+
+msgid "Español"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid "Registrar usuario"
+msgstr "Register user"
+
+msgid "Confirmar contraseña"
+msgstr "Confirm password"
+
+msgid "Crear cuenta"
+msgstr "Create account"
+
+msgid "Volver al login"
+msgstr "Back to login"
+
+msgid "Usuario registrado. Ahora puede iniciar sesión."
+msgstr "User registered. You can now sign in."
+
+msgid "Correo o contraseña inválidos."
+msgstr "Invalid email or password."
+
+msgid "primero"
+msgstr "first"
+
+msgid "anterior"
+msgstr "previous"
+
+msgid "siguiente"
+msgstr "next"
+
+msgid "último"
+msgstr "last"
+
+msgid "Página {{page}} de {{pages}}, mostrando {{current}} registro(s) de {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+
+msgid "Chino mandarín"
+msgstr "Mandarin Chinese"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Árabe"
+msgstr "Arabic"
+
+msgid "Francés"
+msgstr "French"
+
+msgid "Ruso"
+msgstr "Russian"
+
+msgid "Portugués"
+msgstr "Portuguese"
+
+msgid "Alemán"
+msgstr "German"
+
+msgid "Japonés"
+msgstr "Japanese"
+
+msgid "Idioma"
+msgstr "Language"
